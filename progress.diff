@@ -287,7 +287,7 @@ Fire Emblem: The Sacred Stones:
 
 Freshly-Picked Tingle's Rosy Rupeeland:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Barkle
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Pinkle
++ tex1_64x160_2cba36c5c2765967_6587a878eb50071b_9  : Pinkle
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Tingle
 
 Game & Watch:
@@ -363,7 +363,7 @@ Kirby: Mouse Attack:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Treasure Chest
 
 Kirby: Power Paintbrush:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Meta Knight Ball
++ tex1_70x69_565af16a730d0b9d_0a2369f457dbac3c_9   : Meta Knight Ball
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Waddle Dee Ball
 
 Kirby's Fun Pak:
@@ -523,9 +523,9 @@ Mario vs. DK 2: MotM:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Mini Mario
 
 Metroid:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Energy Tank
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Ridley
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Samus
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Energy Tank
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Ridley
++ tex1_135x160_c0b63c10a387d2c3_88cde97c9221c205_9 : Samus
 
 Metroid Fusion:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Samus
@@ -759,7 +759,7 @@ Sonic & the Secret Rings:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Shahra
 
 Sonic Advance 2:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Cream The Rabbit & Cheese
++ tex1_79x100_9bd961c01c3bd4da_ff59fa37b8ceaa75_9  : Cream The Rabbit & Cheese
 
 Sonic Adventure 2: Battle:
 + tex1_74x100_d2845750975ec4ae_d28636c900de00e1_9  : Rouge the Bat
