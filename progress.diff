@@ -334,13 +334,13 @@ Kirby & The Amazing Mirror:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Mobile Phone
 
 Kirby 64:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Acro
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Bronto Burt
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : King Dedede & Kirby
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Kirby
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Needle Kirby
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Nruff
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Waddle Dee
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Acro
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Bronto Burt
++ tex1_200x161_fded9b4783da2a98_a2eddc45a8eec44a_9 : King Dedede & Kirby
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Kirby
++ tex1_154x160_d9bb97d22c8dd162_372f5e33dd7a02da_9 : Needle Kirby
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Nruff
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Waddle Dee
 
 Kirby Air Ride:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Kirby
