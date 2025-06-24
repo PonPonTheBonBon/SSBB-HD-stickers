@@ -1,0 +1,52 @@
+My process of making HD stickers:
+
++ 1. Use image reverse search using Google, Yandex or other engine and find high quality image at reasonable size
+- ensure the image is of good quality, isn't blurry, does not have watermarks, hasn't been edited
+
++ 1B. If the image is in jpg-format, or is visible compressed, then I use Waifu2x set to artwork, high, none, png
+- this should algorithmically remove the jpg-artifacts and makes the image cleaner, the higher resolution image, the less of an issue
+
++ 2. Open the image in an editing software, I tend to use Photoshop, so that is what this guide will go by
+- Ensure that the image is itself not a locked background layer, if it is, double click it and confirm to make it a proper layer
+
++ 3. Drop the original sticker as a smart layer as a top layer, edit the smart layer and add a black background (if it's a white border)
+- it's important that it's imported as a smart layer immediately to preserve the transaprent padding, do not convert it to a smart layer afterwards
+- you can open the original sticker as a new file, add the black background to that instead
+
++ 4. Merge the content to a single layer and scale up the image, which depends on the difference in size between the new image and the sticker, but I tend to go with 10x or 16x the size; set the interpolation to "Preserve Details 2.0" at 100%
+
++ 5. Save the smart layer, and close it, which should update the smart layer on your original document
+- in case you opened the original sticker as a new file, then copy over this image to your original document as the top layer, then convert it to a smart layer
+
++ 6. Scale down (never up) the smart layer so that it becomes the same size as the higher quality image
+- never change the size or position of the higher quality image
+- you should be able to hide and show the smart layer, and it should just appear as if the image becomes sharper and blurrier
+- if it feels like the image changes size or shifts to the side, adjust the size and position of the smart layer
+
++ 7. When placed accurately, Ctrl+click the thumbnail of the smart layer (to select the whole smart layer),
++ then press C, Enter, Enter [standard keybinds] or select the crop tool so that the selection is what it crops by
+- it is important that the image follows the size of the scaled original sticker, not the high quality image
+
++ 8. Add adjustments: levels above the smart layer, set it to input: 100, 1.00, 155
++ also add adjustments: threshold set to 255, so you can see what isn't perfectly white
+
++ 9. Add new layer above smart layer, and fill everything within the white sticker that isn't yet white
+
++ 10. Merge the levels, new layer and the smart layer into one layer (you can delete the threshold)
+- do not merge the threshold, delete it (or merge it with it set to hidden so it's ignored)
+
++ 11. Create a new layer at the bottom, and fill it with white (since this is for white outlined stickers), to ensure the sticker doesn't end up with transparent bits
+- you can have a bottom layer that is a locked background layer, double click it and confirm to make it a proper layer
+
++ 12. Merge the higher quality image with the white background, this should leave you with two layers
+- Do not merge the one you created from the original sticker
+- Top layer is the one from the original sticker, which should be a pure white blank sticker with black outside it
+- Bottom layer is the higher quality image with a full white background
+
++ 13. Copy or cut the content from the top layer (the mask), select the bottom layer, add mask
++ then Alt click the blank mask, then paste the image, so you see the blank sticker as the mask
++ then hide or delete the top layer, so you only have the higher quality image with the mask
+
++ 14. Save it as png, highest compression (low filesize, longer saving time)
+- do not save it as any other format, do not convert any other format to png
+- it needs to be as png immediately
