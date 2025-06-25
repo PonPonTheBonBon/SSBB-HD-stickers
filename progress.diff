@@ -564,7 +564,7 @@ Metroid: Zero Mission:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Zero Suit Samus
 
 Metroid: ZM:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Running Zero Suit Samus
++ tex1_164x200_b80467ec6f634191_e2b52d0dc3a9d58d_9 : Running Zero Suit Samus
 
 MGS: The Twin Snakes:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Big Boss
@@ -586,10 +586,10 @@ MGS2: Sons of Liberty:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Solid Snake
 
 MGS3: Snake Eater:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Eva
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Naked Snake
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Shagohod
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : The Boss
++ tex1_138x200_a0174d311dccc088_b53ae66f67c80c49_9 : Eva
++ tex1_154x200_b578dc32b732e5a6_42a1a44d7a33e608_9 : Naked Snake
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Shagohod
++ tex1_148x200_7512aa06b7b87db2_8f9e36208d3571b3_9 : The Boss
 
 Mother:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Ana
