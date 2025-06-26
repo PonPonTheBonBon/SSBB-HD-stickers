@@ -2,8 +2,8 @@
 Mission to finding high quality images to replace the original images from the game
 
 ### Progress
-35 / 700 stickers in HD  
-`███___________________________________________________________________` (2 %)
+40 / 700 stickers in HD  
+`████__________________________________________________________________` (5 %)
 
 ### Who can help?
 Anyone is free to fork and then make a pull request.  
@@ -20,7 +20,7 @@ Just finding links to source images is very helpful.
 Create an issue, put links together with the filename from the folder stickers original,  
 and someone (such as me) can then process those into HD stickers.
 
-Ensure to also include the original source image, unedited, used for the HD sticker,
+Ensure to also include the original source image, unedited, used for the HD sticker,  
 put that image in the folder [source images](/source%20images), with the same name as the sticker.
 
 ### Can I use these?
