@@ -24,5 +24,6 @@ Ensure to also include the original source image, unedited, used for the HD stic
 put that image in the folder [source images](/source%20images), with the same name as the sticker.
 
 ### Can I use these?
-Feel free to download the folder "stickers HD" and put it in the game.  
-Follow guides regarding replacing internal files with external ones.
+Feel free to download the latest release of this project, it will contain the latest HD stickers.  
+You'll find the latest release on the right panel under "Releases" with one marked as "Latest".  
+To use these stickers in game, you would have to look up guides specific to your case.
