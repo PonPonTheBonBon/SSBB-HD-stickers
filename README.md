@@ -20,6 +20,9 @@ Just finding links to source images is very helpful.
 Create an issue, put links together with the filename from the folder stickers original,  
 and someone (such as me) can then process those into HD stickers.
 
+Ensure to also include the original source image, unedited, used for the HD sticker,
+put that image in the folder [source images](/source%20images), with the same name as the sticker.
+
 ### Can I use these?
 Feel free to download the folder "stickers HD" and put it in the game.  
 Follow guides regarding replacing internal files with external ones.
