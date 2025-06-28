@@ -123,11 +123,11 @@ Devil World:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Tamagon
 
 Digiluxe:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Boundish
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Chromatron
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Digidrive
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Orbiter
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Rotohex
++ tex1_70x68_e9729fe47db92029_3d4157de3fcc3cef_9   : Boundish
++ tex1_70x70_36c9d089d338e883_07ef9f5606ba3756_9   : Chromatron [misnamed, should be: Coloris]
++ tex1_70x68_27ee7af17ff5461f_b4e1d79a8e417801_9   : Digidrive
++ tex1_70x67_2e9b52bfc348a3c5_b6f4b2da1d7e7eac_9   : Orbiter [misnamed, should be: Orbital]
++ tex1_69x70_3fba3a9ffbe8558f_e7964b7c080d5846_9   : Rotohex
 
 DK Jungle Beat:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Donkey Kong
@@ -635,10 +635,10 @@ Nintendo Puzzle Collection:
 - tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Blue Virus
 - tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Capsule
 - tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Dr. Mario
-- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Flower Fairy Lip
-- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Jewel Fairy Ruby
-- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Moon Fairy Seren
-- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Panel
++ tex1_83x130_8e9574db37bb6f6d_39a3cbe6d7ce62ac_9  : Flower Fairy Lip
+- tex1_101x130_8af2ee9bb56532f6_65328cbaf70f3f4e_9 : Jewel Fairy Ruby
+- tex1_82x130_c7637e4c72ac092a_fe7c896b5d97cb09_9  : Moon Fairy Seren
+- tex1_70x70_99f11388e0a46da3_7db7a90adbbf1bec_9   : Panel
 - tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Red Virus
 + tex1_122x130_e3fa36912168136a_02d243e2c7f904c0_9 : Water Fairy Elias [misnamed, should be: Water Fairy Cecil]
 - tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Yellow Virus

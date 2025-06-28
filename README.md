@@ -2,8 +2,8 @@
 Mission to finding high quality images to replace the original images from the game
 
 ### Progress
-62 / 700 stickers in HD  
-`██████________________________________________________________________` (8 %)
+68 / 700 stickers in HD  
+`██████________________________________________________________________` (9 %)
 
 ### Who can help?
 Anyone is free to fork and then make a pull request.  
