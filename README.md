@@ -2,7 +2,7 @@
 Mission to finding high quality images to replace the original images from the game
 
 ### Progress
-83 / 700 stickers in HD  
+84 / 700 stickers in HD  
 `████████______________________________________________________________` (11 %)
 
 ### Who can help?
