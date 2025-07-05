@@ -376,7 +376,7 @@ Kirby's Fun Pak:
 Knuckles' Chaotix:
 + tex1_82x100_129c1ec7a2279d92_8e4eebf016d020ab_9  : Charmy Bee
 + tex1_99x130_7d6ee203c87d9361_bd84ab2120463b18_9  : Espio the Chameleon
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Vector the Crocodile
++ tex1_109x130_165fff62916d6df5_6e97a170391ad545_9 : Vector the Crocodile
 
 Kururin Paradise:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Kururin
@@ -763,50 +763,50 @@ Sonic Advance 2:
 
 Sonic Adventure 2: Battle:
 + tex1_74x100_d2845750975ec4ae_d28636c900de00e1_9  : Rouge the Bat
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Shadow the Hedgehog
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Shadow the Hedgehog
 
 Sonic Adventure Director's Cut:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Big the Cat
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Chao
++ tex1_126x130_b57e8c9ae2fdfeba_e5047dbcfea88612_9 : Big the Cat
++ tex1_102x130_25e463e7f4bfe1fa_4d283f4ab84a7b41_9 : Chao
 + tex1_100x100_dfb57709f575cbbc_4ee40f5e9f041161_9 : Chaos
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : E-102 Gamma
++ tex1_100x88_640c34a00a9fa3f9_917989870e2e0b7b_9  : E-102 Gamma
 + tex1_66x100_46802ef4b0a1344e_12b135bdc34bcd8b_9  : Tikal
 
 Sonic Battle:
 + tex1_76x100_63bae25c7da1bdcd_4be1d02f9feddea9_9  : Emerl
 
 Sonic CD:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Amy Rose
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Metal Sonic
++ tex1_109x160_67c4ba2ddad10c1d_d170d1fa01c177be_9 : Amy Rose
++ tex1_101x130_f20c99c477663d00_9d11c2d4d136ec79_9 : Metal Sonic
 
 Sonic Heroes:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : E-123 Omega
++ tex1_130x124_1f86ee60ca63340d_c7f949be9fa19d37_9 : E-123 Omega
 
 Sonic Riders:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Jet the Hawk
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Storm the Albatross
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Wave the Swallow
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Jet the Hawk
++ tex1_123x130_23e1f3d84eedbaf7_8060aa2c44d7217d_9 : Storm the Albatross
++ tex1_127x130_2c52091f9cc9b399_0274a9fafbe75fc1_9 : Wave the Swallow
 
 Sonic Rush:
 + tex1_84x130_e798e79f9019ebf1_8555df0150cca1a6_9  : Blaze the Cat
 
 Sonic the Hedgehog:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Dr. Eggman
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Silver the Hedgehog
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Sonic the Hedgehog
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Dr. Eggman
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Silver the Hedgehog
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Sonic the Hedgehog
 
 Sonic the Hedgehog 2:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Miles "Tails" Prower
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Super Sonic
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Miles "Tails" Prower
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Super Sonic
 
 Sonic the Hedgehog 3:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Knuckles the Echidna
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Knuckles the Echidna
 
 Sonic the Hedgehog JP Ver.:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Classic Sonic
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Classic Sonic
 
 Sonic the Hedgehog US Ver.:
-- tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Classic Sonic
+- tex1_???x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9 : Classic Sonic
 
 Stack-Up:
 - tex1_??x???_xxxxxxxxxxxxxxxx_xxxxxxxxxxxxxxxx_9  : Robot & Blocks
